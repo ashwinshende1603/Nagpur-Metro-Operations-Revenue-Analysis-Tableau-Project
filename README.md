@@ -94,6 +94,8 @@ Key fields used:
 
 The analysis is structured into three themes:
 - Growth & Demand Evolution
+  <img width="1622" height="763" alt="Screenshot 2026-02-28 235056" src="https://github.com/user-attachments/assets/e37d6f56-652f-4902-999b-a9101f31fa47" />
+
 - Revenue & Financial Performance
 - Operational Efficiency
 

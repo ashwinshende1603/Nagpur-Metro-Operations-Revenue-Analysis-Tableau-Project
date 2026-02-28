@@ -48,26 +48,41 @@ Key fields used:
 ## 📈 Dashboards Created
 
 ### 1️⃣ Executive Overview Dashboard
+
+<img width="1608" height="849" alt="Screenshot 2026-02-28 234901" src="https://github.com/user-attachments/assets/2ba58635-20fd-4540-b27e-b64c96663dcc" />
+
 - Monthly Ridership Trend
 - Net Revenue Trend
 - Average Fare per Passenger (KPI)
 
 ### 2️⃣ Passenger Demand & Station Usage
+
+<img width="1615" height="855" alt="Screenshot 2026-02-28 234923" src="https://github.com/user-attachments/assets/6a67bba2-94a1-424b-9b20-991d36b64fba" />
+
 - Passenger Volume by Station
 - Top Destination Stations
 - Peak vs Off-Peak Ridership
 
 ### 3️⃣ Revenue & Ticket Performance
+
+<img width="1620" height="855" alt="Screenshot 2026-02-28 234939" src="https://github.com/user-attachments/assets/d5381cfd-86e9-4747-8bb1-625de7a3e130" />
+
 - Revenue Contribution by Corridor
 - Revenue Share by Ticket Type
 - Monthly Ticket Sales Trend
 
 ### 4️⃣ Operations & Cost Efficiency
+
+<img width="1617" height="860" alt="Screenshot 2026-02-28 234959" src="https://github.com/user-attachments/assets/dd241ab1-4986-4143-8c06-3af9b7928d5b" />
+
 - Average Delay Analysis
 - Operational Cost by Station
 - Maintenance Cost Trend
 
 ### 5️⃣ Infrastructure & Sustainability
+
+<img width="1617" height="860" alt="Screenshot 2026-02-28 235013" src="https://github.com/user-attachments/assets/7a90be6a-f6de-403d-ade0-aee80c885425" />
+
 - Energy Consumption by Corridor
 - Incidents by Station
 - Average Train Speed

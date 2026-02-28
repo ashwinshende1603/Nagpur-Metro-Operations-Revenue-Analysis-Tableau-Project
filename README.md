@@ -93,26 +93,26 @@ Key fields used:
 ## 📖 Storytelling Approach
 
 The analysis is structured into three themes:
-- Growth & Demand Evolution
+## - Growth & Demand Evolution
   <img width="1622" height="763" alt="Screenshot 2026-02-28 235056" src="https://github.com/user-attachments/assets/e37d6f56-652f-4902-999b-a9101f31fa47" />
 
   <img width="1617" height="763" alt="Screenshot 2026-02-28 235046" src="https://github.com/user-attachments/assets/1501ce0d-203e-4ae2-8935-2bcd08306381" />
 
   <img width="1622" height="763" alt="Screenshot 2026-02-28 235056" src="https://github.com/user-attachments/assets/b2abd738-d87b-426d-9ef8-1762a6c2c160" />
 
-- Revenue & Financial Performance
+## - Revenue & Financial Performance
   <img width="1623" height="768" alt="Screenshot 2026-02-28 235110" src="https://github.com/user-attachments/assets/8b6ab342-738f-4272-bb8d-09c7ca2f405f" />
 
   <img width="1622" height="765" alt="Screenshot 2026-02-28 235118" src="https://github.com/user-attachments/assets/63aebca5-a23c-46f2-867d-1875fb52c7c6" />
 
   <img width="1626" height="763" alt="Screenshot 2026-02-28 235128" src="https://github.com/user-attachments/assets/ab3abd50-6e24-49b1-be63-c40534476446" />
 
-- Operational Efficiency
-<img width="1613" height="768" alt="Screenshot 2026-02-28 235301" src="https://github.com/user-attachments/assets/8acf2739-0df5-407d-87e3-b51ec8a3f694" />
+## - Operational Efficiency
+  <img width="1613" height="768" alt="Screenshot 2026-02-28 235301" src="https://github.com/user-attachments/assets/8acf2739-0df5-407d-87e3-b51ec8a3f694" />
 
-<img width="1612" height="764" alt="Screenshot 2026-02-28 235312" src="https://github.com/user-attachments/assets/bba7527a-27a9-4e8e-a363-616d40deab58" />
+  <img width="1612" height="764" alt="Screenshot 2026-02-28 235312" src="https://github.com/user-attachments/assets/bba7527a-27a9-4e8e-a363-616d40deab58" />
 
-<img width="1616" height="766" alt="Screenshot 2026-02-28 235138" src="https://github.com/user-attachments/assets/4a3082d4-8df9-450b-bef7-81cbf8095e94" />
+  <img width="1616" height="766" alt="Screenshot 2026-02-28 235138" src="https://github.com/user-attachments/assets/4a3082d4-8df9-450b-bef7-81cbf8095e94" />
 
 ---
 

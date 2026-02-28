@@ -93,7 +93,7 @@ Key fields used:
 ## 📖 Storytelling Approach
 
 The analysis is structured into three themes:
-### Growth & Demand Evolution
+### - Growth & Demand Evolution
   <img width="1622" height="763" alt="Screenshot 2026-02-28 235056" src="https://github.com/user-attachments/assets/e37d6f56-652f-4902-999b-a9101f31fa47" />
 
   <img width="1617" height="763" alt="Screenshot 2026-02-28 235046" src="https://github.com/user-attachments/assets/1501ce0d-203e-4ae2-8935-2bcd08306381" />
